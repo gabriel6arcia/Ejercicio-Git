@@ -3,6 +3,37 @@
     box-sizing: border-box;
 }
 
+header,footer,section{
+background-color: aliceblue;
 
+}
+.cabecera{
+    background-color: aquamarine;
+    margin: 0;
+    padding: 20px;
+}
 
+.cabecera h1 {
+    text-align: center;
+    font-size:  50px;
+    color: #fff;
+    margin: 0;
+    padding: 5px;
+    border-radius: 100cm;
+    background-color: rgb(51, 56,813);
+}
+nav
+{
+    overflow: auto;
+    background-color: rgb(12,1,84);
+    text-align: center;
+}
 
+.navegador a {
+
+display: inline-block;
+color: #f2f2f2;
+text-align: center;
+padding: 14px 16px;
+text-decoration-color: aqua;
+}
